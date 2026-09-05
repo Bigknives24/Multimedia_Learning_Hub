@@ -64,7 +64,7 @@ header img{
     object-fit: cover;
 }
 .home-header {
-    background-image: url("../images/Main page.jpg");
+    background-image: url("Main page.jpg");
     background-size: cover;
     background-position: center;
     padding: 5rem 1rem;
@@ -72,7 +72,7 @@ header img{
     color: #ffffff;
 }
 .audio-header {
-    background-image: url("../images/audio.jpg");
+    background-image: url("audio.jpg");
     background-size: cover;
     background-position: center;
     padding: 5rem 1rem;
@@ -80,7 +80,7 @@ header img{
     color: #ffffff;
 }
 .video-header {
-    background-image: url("../images/video.jpg");
+    background-image: url("video.jpg");
     background-size: cover;
     background-position: center;
     padding: 5rem 1rem;
@@ -88,7 +88,7 @@ header img{
     color: #ffffff;
 }
 .resources-header {
-    background-image: url("../images/resource.jpg");
+    background-image: url("resource.jpg");
     background-size: cover;
     background-position: center;
     padding: 5rem 1rem;
@@ -96,7 +96,7 @@ header img{
     color: #ffffff;
 }
 body.about-page {
-    background-image: url("../images/About.jpg");
+    background-image: url("About.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
